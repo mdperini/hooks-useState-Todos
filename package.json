@@ -1,6 +1,6 @@
 {
   "name": "hooks-todos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "class field and code spliting",
   "main": "index.js",
   "scripts": {
